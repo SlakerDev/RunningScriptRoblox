@@ -1,0 +1,2 @@
+- You can change the sprint key in the file
+- The file goes in StarterPlayer > StarterPlayerScript
